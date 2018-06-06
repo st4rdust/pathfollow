@@ -20,7 +20,7 @@ def trim(arr, threshold):
 
 
 def standardize_inputs(inpath, outpath, threshold=180):
-    """Take list of scans and manipulate so 200 readings in all scans."""
+    """Take list of scans and manipulate so 180 readings in all scans."""
     raw_scans = np.load(inpath)
     out_scans = []
     for i, scan in enumerate(raw_scans):
