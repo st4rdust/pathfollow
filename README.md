@@ -1,5 +1,5 @@
 # pathfollow
 
-This is just a system for me to show when I make changes to the programs involved in my research project and to keep a reliable record.
+Documentation for a research project for school in 2018, in which a neural network was created to map 360-degree lidar readings to the clearest forward direction of travel for obstacle avoidance. 
 
-These probably have no use to you.
+Accuracy reached 97% but I ran out of time (graduated) before ever implementing it in control of a drone.
